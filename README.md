@@ -1,7 +1,5 @@
 <h1 align="center"> Hello World, I'm <b>RITVIK</b> </h1>
 
-<br/>
-
 ## 🙋‍♂️ About Me:
 
 - 🎓 Pursuing BE in **Computer Science**
