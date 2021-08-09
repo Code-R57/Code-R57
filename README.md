@@ -1,5 +1,6 @@
 <h1 align="center"> Hello World, I'm <b>RITVIK</b> </h1>
 
+<br/>
 
 ## 🙋‍♂️ About Me:
 
@@ -9,6 +10,7 @@
 Web Development and a bit of Designing
 - 🚀 Looking forward to contribute in Open Source Projects
 
+<br/> 
 
 ## 💻 Languages and Tools:
 
