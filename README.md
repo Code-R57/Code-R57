@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🎓 Pursuing BE in **Computer Science**
+- 🎓 Pursuing **BE** in **Computer Science**
 - 🏫 Currently in my **2nd Year** at **BITS Pilani, Hyderabad Campus**
 - 🙂 Trying various things like Competitive Coding, Android Development,
 Web Development and a bit of Designing
