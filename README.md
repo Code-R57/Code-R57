@@ -4,8 +4,8 @@
 ## 🙋‍♂️ About Me:
 
 - 🎓 Pursuing **BE** in **Computer Science**
-- 🏫 Currently in my **3rd Year** at **BITS Pilani, Hyderabad Campus**
-- 🙂 Trying various things like Android Development, Competitive Coding, 
+- 🏫 Currently in my **4th Year** at **BITS Pilani, Hyderabad Campus**
+- 🙂 Trying various things like Android Development, Data Science, 
 Web Development and a bit of Designing
 - 🚀 Looking forward to contribute in Open Source Projects
 
